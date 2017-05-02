@@ -12,6 +12,7 @@
 		D742B28D1EA89E2900B28FDA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D742B28B1EA89E2900B28FDA /* Main.storyboard */; };
 		D742B28F1EA89E2900B28FDA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D742B28E1EA89E2900B28FDA /* Assets.xcassets */; };
 		D742B2921EA89E2900B28FDA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D742B2901EA89E2900B28FDA /* LaunchScreen.storyboard */; };
+		D742B29A1EB8B27000B28FDA /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = D742B2991EB8B27000B28FDA /* pokemon.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		D742B28E1EA89E2900B28FDA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D742B2911EA89E2900B28FDA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D742B2931EA89E2900B28FDA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D742B2991EB8B27000B28FDA /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				D742B2891EA89E2900B28FDA /* ViewController.swift */,
 				D742B28B1EA89E2900B28FDA /* Main.storyboard */,
 				D742B28E1EA89E2900B28FDA /* Assets.xcassets */,
+				D742B2991EB8B27000B28FDA /* pokemon.csv */,
 				D742B2901EA89E2900B28FDA /* LaunchScreen.storyboard */,
 				D742B2931EA89E2900B28FDA /* Info.plist */,
 			);
@@ -126,6 +129,7 @@
 			files = (
 				D742B2921EA89E2900B28FDA /* LaunchScreen.storyboard in Resources */,
 				D742B28F1EA89E2900B28FDA /* Assets.xcassets in Resources */,
+				D742B29A1EB8B27000B28FDA /* pokemon.csv in Resources */,
 				D742B28D1EA89E2900B28FDA /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
